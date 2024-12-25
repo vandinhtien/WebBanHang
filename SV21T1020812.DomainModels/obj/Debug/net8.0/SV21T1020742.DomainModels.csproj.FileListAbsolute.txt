@@ -1,0 +1,13 @@
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\bin\Debug\net8.0\SV21T1020742.DomainModels.deps.json
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\bin\Debug\net8.0\SV21T1020742.DomainModels.dll
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\bin\Debug\net8.0\SV21T1020742.DomainModels.pdb
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.csproj.AssemblyReference.cache
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.AssemblyInfoInputs.cache
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.AssemblyInfo.cs
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.csproj.CoreCompileInputs.cache
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.sourcelink.json
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.dll
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\refint\SV21T1020742.DomainModels.dll
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\SV21T1020742.DomainModels.pdb
+D:\Wordspace\LapTrinhUngDungWeb\SV21T1020742\SV21T1020812\SV21T1020812\SV21T1020812.DomainModels\obj\Debug\net8.0\ref\SV21T1020742.DomainModels.dll

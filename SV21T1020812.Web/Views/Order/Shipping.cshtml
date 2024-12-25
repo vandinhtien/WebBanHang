@@ -1,0 +1,38 @@
+﻿@model Order
+@{
+    Layout = null;
+    int rowCount = 0;
+}
+
+<div class="modal-dialog">
+    <div class="modal-content">
+        <form id="shipperForm" action="~/Order/Shipping" method="post">
+            <input type="hidden" name="@nameof(Model.OrderID)" value="@Model.OrderID" />
+            <div class="modal-header bg-primary">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Chuyển giao hàng cho đơn hàng</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label class="control-label">Người giao hàng:</label>
+                    <select class="form-control" name="@nameof(Model.ShipperID)">
+                        <option value="0">-- Chọn người giao hàng ---</option>
+                        @foreach (var item in SV21T1020742.BusinessLayers.CommonDataService.ListOfShippers(out rowCount, 1, int.MaxValue, ""))
+                        {
+                            <option value="@item.ShipperId">@item.ShipperName</option>
+                        }
+                    </select>
+                    <span id="error-message" style="color: red; display: none" class="error">Vui lòng chọn nhà giao hàng</span>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fa fa-floppy-o"></i> Cập nhật
+                </button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">
+                    Bỏ qua
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
